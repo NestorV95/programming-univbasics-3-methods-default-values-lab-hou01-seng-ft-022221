@@ -1,7 +1,7 @@
 # Your code here
 # For output purposes, use "puts" instead of "print" or "p"
 
-protein = "Chicken"
+protein = "Tofu"
 veg1 = "Brocollie"
 veg2 = "carrots"
 
