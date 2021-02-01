@@ -3,6 +3,6 @@
 
 protein = "Meat"
 
-def meal_choice (protein = "Tofu", "carrots", "string beans")
+def meal_choice (protein = "tofu", "carrots", "string beans")
 puts "What a nutritional meal! A plate of #{protein} with #{veg1} and #{veg2}."
 end
